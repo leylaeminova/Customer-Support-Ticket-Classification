@@ -7,6 +7,7 @@ This repository contains an analysis of a Customer Support Ticket dataset along 
 Dataset
 
 The Customer Support Ticket dataset used in this analysis contains information about support tickets raised by customers. It includes features such as ticket subject, ticket description, and ticket type.
+
 Data Exploration
 
   The analysis begins with exploratory data analysis (EDA) to understand the characteristics of the dataset.
